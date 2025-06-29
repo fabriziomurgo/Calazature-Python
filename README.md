@@ -1,44 +1,43 @@
 # Esercitazione finale in team Python
 
-👟 Analisi comparativa Vans vs Converse – Strategia di posizionamento nel retail
+👟 Analisi dei competitor nel settore calzature – Strategia di posizionamento stagionale
 
-Durante la Build Week abbiamo condotto un’analisi comparativa tra i brand **Vans** e **Converse**, focalizzandoci su prezzi, categorie di prodotto e target di genere.  
-Dopo aver raccolto e pulito i dati, abbiamo realizzato un report interattivo con grafici e tabelle per evidenziare differenze di posizionamento, punti di forza e aree di miglioramento.
-Abbiamo strutturato il dataset estraendo informazioni chiave dai nomi dei prodotti (modello, categoria, prezzo) e normalizzando i dati relativi ai prezzi e al genere.  
-I risultati ottenuti offrono spunti utili per comprendere le strategie commerciali dei due brand e supportare decisioni data-driven nel settore retail.
+Durante la Build Week, abbiamo ricevuto l’incarico dal CEO di un brand di calzature di condurre un’analisi approfondita dei principali competitor in vista della prossima stagione.  
+L’obiettivo è stato quello di confrontare prezzi, tipologie di calzature e varietà dell’offerta, per identificare opportunità di differenziazione e rafforzare la competitività del brand.
+Abbiamo scelto due marchi comparabili, **Vans** e **Converse**, e raccolto dati. Dopo averli puliti e strutturati, abbiamo realizzato un report interattivo con grafici e tabelle per evidenziare differenze di posizionamento, punti di forza e aree di miglioramento.
 
 📌 Obiettivi del progetto:
 
-- Analizzare e confrontare i prezzi medi per categoria e genere tra Vans e Converse  
-- Identificare differenze di posizionamento tra i due brand  
+- Analizzare e confrontare i prezzi medi per categoria e genere tra il brand e i competitor  
+- Esaminare la varietà dell’offerta in termini di taglie e colori  
+- Identificare differenze di posizionamento tra i brand  
 - Visualizzare i dati in modo chiaro e interattivo per supportare decisioni strategiche  
-- Pulire e strutturare il dataset a partire da informazioni testuali  
+- Fornire raccomandazioni al CEO su come ottimizzare l’offerta per la prossima stagione  
 
 🛠 Strumenti utilizzati:
 
 - **Python**  
 - **Pandas** per la manipolazione dei dati  
 - **Matplotlib** e **Seaborn** per la visualizzazione  
-- **Jupyter Notebook** per l’esplorazione e la presentazione del progetto  
-
+- **Jupyter Notebook** per l’esplorazione e la presentazione del progetto
 
 
 
 # Final Team Project in Python
 
-👟 Vans vs Converse Comparative Analysis – Retail Positioning Strategy
+👟 Footwear Competitor Analysis – Seasonal Positioning Strategy
 
-During the Build Week, we conducted a comparative analysis between **Vans** and **Converse**, focusing on pricing, product categories, and gender targeting.  
-After collecting and cleaning the data, we created an interactive report with charts and tables to highlight positioning differences, strengths, and areas for improvement.
-We structured the dataset by extracting key information from product names (model, category, price) and normalizing data related to pricing and gender.  
-The results provide valuable insights into the commercial strategies of both brands and support data-driven decision-making in the retail sector.
+During the Build Week, we were tasked by the CEO of a footwear brand to conduct an in-depth analysis of key competitors ahead of the upcoming season.  
+The goal was to compare pricing, product types, and assortment variety to identify differentiation opportunities and strengthen the brand’s market position.
+We selected two comparable brands, **Vans** and **Converse**, and collected data. After cleaning and structuring the data, we created an interactive report with charts and tables to highlight positioning differences, strengths, and areas for improvement.
 
 📌 Project Objectives:
 
-- Analyze and compare average prices by category and gender between Vans and Converse  
-- Identify positioning differences between the two brands  
+- Analyze and compare average prices by category and gender between the brand and its competitors  
+- Examine assortment variety in terms of sizes and colors  
+- Identify positioning differences between brands  
 - Visualize data clearly and interactively to support strategic decisions  
-- Clean and structure the dataset from textual product information  
+- Provide recommendations to the CEO on how to optimize the offering for the upcoming season  
 
 🛠 Tools Used:
 
